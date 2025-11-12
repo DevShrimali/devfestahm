@@ -1,36 +1,51 @@
 {
-  "jobs": [
+  "fullName": "Dev Shrimali",
+  "location": "Ahmedabad, India",
+  "bio": "UI/UX Designer with 6+ years of experience crafting intuitive digital experiences. Skilled in user research, wireframing, prototyping, and high-fidelity UI design using tools like Figma, Photoshop, Illustrator, and Webflow. Passionate about creating interfaces that balance user needs with business goals.",
+  "email": "devloper.ds@gmail.com",
+  "phone": "+91-8758084842",
+  "imageUrl": "https://avatars.githubusercontent.com/u/44333121?v=4",
+  "website": "https://portfolio-dev-shrimali.netlify.app/",
+  "skills": [
+    "UI/UX Design",
+    "Figma",
+    "Prototyping",
+    "User Research",
+    "Wireframing",
+    "Webflow",
+    "Photoshop",
+    "Illustrator"
+  ],
+  "links": [
     {
-      "companyName": "SolGuruz LLP",
-      "location": "Ahmedabad, India",
-      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
-      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
-      "companyWebsite": "http://solguruz.com/",
-      "companyCareerPage": "https://solguruz.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/thumbnail?id=18uaRcp6QGQZW1GEn0lUl9pYrU9cnwRTV&sz=w500",
-      "openings": [
-        {
-          "title": "Sr. Business Development Executive",
-          "count": 1,
-          "experience": "3+ years Experience"
-        },
-        {
-          "title": "Senior Flutter Developer",
-          "count": 2,
-          "experience": "3+ years Experience"
-        },
-        {
-          "title": "Motion Graphics Designer",
-          "count": 1,
-          "experience": "0 to 1 year Exp"
-        },
-        {
-          "title": "Business Analyst",
-          "count": 1,
-          "experience": "3+ years Experience"
-        }
-      ]
+      "icon": "website",
+      "link": "https://portfolio-dev-shrimali.netlify.app/",
+      "name": "Portfolio"
+    },
+    {
+      "icon": "behance",
+      "link": "https://www.behance.net/dev-shrimali",
+      "name": "Behance"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/dev-shrimali/",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/DevShrimali",
+      "name": "GitHub"
+    },
+    {
+      "icon": "x",
+      "link": "https://x.com/idevshrimali",
+      "name": "X/Twitter"
+    },
+    {
+      "icon": "youtube",
+      "link": "https://www.youtube.com/@dev-shrimali",
+      "name": "YouTube"
     }
   ]
 }
